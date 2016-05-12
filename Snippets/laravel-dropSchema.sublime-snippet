@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+    Schema::drop('${1:TableName}');
+    ]]></content>
+   <tabTrigger>dropS</tabTrigger>
+    <scope>source.php</scope>
+    <description>Drop schema for laravel</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+    Schema::create('${1:TableName}', function (Blueprint \$table) {
+            \$table->increments('id');
+            \$table->string('${2:field}');
+            \$table->timestamps();
+        });
+    ]]></content>
+   <tabTrigger>createS</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create schema for laravel</description>
+</snippet>
