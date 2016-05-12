@@ -23,7 +23,7 @@
 		"Vendor",
 		"node_modules"
 	],
-	"font_face": "Inconsolata",
+	"font_face": "Menlo",
 	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
