@@ -13,4 +13,7 @@
 
     // Alignment
     { "keys": ["super+shift+a"], "command": "alignment" },
+
+    // Indent
+    {"keys": ["ctrl+k", "ctrl+d"], "command": "reindent", "args": {"single_line": false}}
 ]
