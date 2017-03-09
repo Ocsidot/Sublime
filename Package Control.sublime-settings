@@ -5,16 +5,19 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
 		"BetterFindBuffer",
 		"Blade Snippets",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
 		"CSS Extended Completions",
+		"CSScomb",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
@@ -23,6 +26,7 @@
 		"GitGutter",
 		"Goto-CSS-Declaration",
 		"HTMLBeautify",
+		"Increment Selection",
 		"IndentX",
 		"JavaScript & NodeJS Snippets",
 		"JavaScript Completions",
@@ -49,6 +53,7 @@
 		"Theme - Spacegray",
 		"Vue Syntax Highlight",
 		"Vuejs Complete Package",
-		"Vuejs Snippets"
+		"Vuejs Snippets",
+		"xpath"
 	]
 }
